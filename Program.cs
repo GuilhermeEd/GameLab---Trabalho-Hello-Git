@@ -7,6 +7,7 @@ namespace Aplicativo_do_Console
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git:)");
+            Console.WriteLine("Guilherme");
         }
     }
 }
